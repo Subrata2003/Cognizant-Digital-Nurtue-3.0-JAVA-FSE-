@@ -17,9 +17,19 @@ Welcome to the Cognizant Digital Nurture 3.0 - Java Full Stack Engineer (FSE) re
   - [Spring REST](https://github.com/Subrata2003/Cognizant-Digital-Nurtue-3.0-JAVA-FSE-/blob/main/All%20Assignemens%20Questions/Week%204%2C%205_Spring%20REST.docx)
 - [Resources](#resources)
 - [Submission Guidelines](#submission-guidelines)
-
+  
 ## Overview
-This repository is a comprehensive collection of all the assignments and projects for the Cognizant Digital Nurture 3.0 program. The program runs for five weeks, covering various aspects of Java Full Stack Engineering, including hands-on exercises and theoretical learning.
+This repository is a comprehensive collection of all the assignments and projects for the Cognizant Digital Nurture 3.0 program. The program runs for five weeks, covering various aspects of Java Full Stack Engineering, including hands-on exercises and theoretical learning. 
+I will upload all my answers to the assignments on a weekly basis here. **Please do not copy-paste the answers of the assignments as it may cause disqualification.**
+
+
+## Weekly Assignment Answers
+- [Week 1 Algorithms and Data Structures](Week_1_Algorithms_Data_Structures)
+- [Week 1 Design Patterns and Principles](Week_1_Design_Patterns_and_Principles)
+- [Week 2 PL/SQL](Week_2_PLSQL)
+- [Week 2 Spring Core and Maven](Week_2_Spring_Core_Maven)
+- [Week 3 Spring Data JPA and Hibernate](Week_3_Spring_Data_JPA_and_Hibernate)
+- [Week 4 & 5 Spring REST](Week_4_5_Spring_REST)
 
 ## Program Structure
 The deep-skilling program is structured into weekly modules, each focusing on different key areas. The following is a brief overview of the weekly topics and assignments:
@@ -54,3 +64,6 @@ The deep-skilling program is structured into weekly modules, each focusing on di
 Two important documents are provided for your reference:
 1. [Deep Skilling Handbook](https://github.com/Subrata2003/Cognizant-Digital-Nurtue-3.0-JAVA-FSE-/blob/main/DN%203.0%20Handbook%20and%20FAQS/DN3.0-Deepskilling-Handbook-Java-FSE.pdf)
 2. [FAQ - Digital Nurture 3.0](https://github.com/Subrata2003/Cognizant-Digital-Nurtue-3.0-JAVA-FSE-/blob/main/DN%203.0%20Handbook%20and%20FAQS/FAQ%20-%20DN%203.0.pdf)
+
+## License
+© [2024 Subrata Bhuin, B. P. Poddar Institute of Management and Technology - Kolkata. All rights reserved.](https://github.com/Subrata2003/Cognizant-Digital-Nurtue-3.0-JAVA-FSE-/blob/c17029ce0b35e4da349fce52620a20ecca861ab1/LICENSE)
