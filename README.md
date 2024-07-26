@@ -24,7 +24,7 @@ I will upload all my answers to the assignments on a weekly basis here. **Please
 
 
 ## Weekly Assignment Answers
-- [Week 1 Algorithms and Data Structures](Week_1_Algorithms_Data_Structures)
+- [Week 1 Algorithms and Data Structures](https://github.com/Subrata2003/Cognizant-Digital-Nurtue-3.0-JAVA-FSE-/tree/main/Week-1%20Answers/Data%20Structures%20and%20Algorithms)
 - [Week 1 Design Patterns and Principles](Week_1_Design_Patterns_and_Principles)
 - [Week 2 PL/SQL](Week_2_PLSQL)
 - [Week 2 Spring Core and Maven](Week_2_Spring_Core_Maven)
