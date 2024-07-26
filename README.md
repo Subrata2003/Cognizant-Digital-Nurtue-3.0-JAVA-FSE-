@@ -6,7 +6,7 @@ Welcome to the Cognizant Digital Nurture 3.0 - Java Full Stack Engineer (FSE) re
 - [Overview](#overview)
 - [Program Structure](#program-structure)
 - [Week 1](#week-1)
-  - [Algorithms and Data Structures](#algorithms-and-data-structures)
+  - [Algorithms and Data Structures](https://github.com/Subrata2003/Cognizant-Digital-Nurtue-3.0-JAVA-FSE-/blob/main/All%20Assignemens%20Questions/Week%201_Algorthms_Data%20Structures.docx)
   - [Design Patterns and Principles](#design-patterns-and-principles)
 - [Week 2](#week-2)
   - [PL/SQL](#plsql)
